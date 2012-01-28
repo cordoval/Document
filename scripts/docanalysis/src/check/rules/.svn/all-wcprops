@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/977717/incubator/zetacomponents/scripts/docanalysis/src/check/rules
+END
+tag_available.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/check/rules/tag_available.php
+END
+class_header.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/976771/incubator/zetacomponents/scripts/docanalysis/src/check/rules/class_header.php
+END
+param_check.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/976776/incubator/zetacomponents/scripts/docanalysis/src/check/rules/param_check.php
+END
+tags_available.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/check/rules/tags_available.php
+END
+file_header.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/977717/incubator/zetacomponents/scripts/docanalysis/src/check/rules/file_header.php
+END
+header_available.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/check/rules/header_available.php
+END

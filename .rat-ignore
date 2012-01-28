@@ -1,0 +1,7 @@
+**/CREDITS
+**/DESCRIPTION
+**/design/
+**/docs/
+**/review*
+DatabaseSchema/tests/testfiles/persistent/*
+MvcTools/tests/testfiles/views/php/*

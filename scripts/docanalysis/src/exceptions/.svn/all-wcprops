@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/972717/incubator/zetacomponents/scripts/docanalysis/src/exceptions
+END
+rule_not_applyable.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/exceptions/rule_not_applyable.php
+END
+invalid_tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/exceptions/invalid_tag.php
+END
+doc.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/exceptions/doc.php
+END
+invalid_doc_block.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/972717/incubator/zetacomponents/scripts/docanalysis/src/exceptions/invalid_doc_block.php
+END
+token_not_matched.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/exceptions/token_not_matched.php
+END
+unrecognized_tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/exceptions/unrecognized_tag.php
+END

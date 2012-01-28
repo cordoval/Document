@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/972718/incubator/zetacomponents/scripts/docanalysis/src/interfaces
+END
+analysis_rule.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/interfaces/analysis_rule.php
+END
+doc_base_tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/interfaces/doc_base_tag.php
+END
+combined_token.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/interfaces/combined_token.php
+END
+doc_tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/interfaces/doc_tag.php
+END
+token.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/972700/incubator/zetacomponents/scripts/docanalysis/src/interfaces/token.php
+END
+element_analysis_generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/972718/incubator/zetacomponents/scripts/docanalysis/src/interfaces/element_analysis_generator.php
+END
+analysis_reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/972715/incubator/zetacomponents/scripts/docanalysis/src/interfaces/analysis_reporter.php
+END

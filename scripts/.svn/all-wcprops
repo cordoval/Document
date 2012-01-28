@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/1212912/incubator/zetacomponents/scripts
+END
+list-export-dirs.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/969567/incubator/zetacomponents/scripts/list-export-dirs.php
+END
+generate-struct-test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/976487/incubator/zetacomponents/scripts/generate-struct-test.php
+END
+fix-license.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/968405/incubator/zetacomponents/scripts/fix-license.sh
+END
+build-php-doc-config.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/978778/incubator/zetacomponents/scripts/build-php-doc-config.php
+END
+build-downloadable-docs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/977133/incubator/zetacomponents/scripts/build-downloadable-docs.sh
+END
+get-packages-for-version.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/969628/incubator/zetacomponents/scripts/get-packages-for-version.php
+END
+generate_descriptions_file.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/977327/incubator/zetacomponents/scripts/generate_descriptions_file.sh
+END
+check-end-of-file-marker.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/974389/incubator/zetacomponents/scripts/check-end-of-file-marker.sh
+END
+setup-env.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/969762/incubator/zetacomponents/scripts/setup-env.bat
+END
+package-nightly.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/978718/incubator/zetacomponents/scripts/package-nightly.php
+END
+build-docs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/978778/incubator/zetacomponents/scripts/build-docs.sh
+END
+setup-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/973056/incubator/zetacomponents/scripts/setup-env.sh
+END
+fix-docs-array.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/969007/incubator/zetacomponents/scripts/fix-docs-array.sh
+END
+generate-class-stub-structs.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/977328/incubator/zetacomponents/scripts/generate-class-stub-structs.php
+END
+generate-changelog.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/970520/incubator/zetacomponents/scripts/generate-changelog.php
+END
+render-tutorial.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/974580/incubator/zetacomponents/scripts/render-tutorial.php
+END
+release2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/977326/incubator/zetacomponents/scripts/release2.sh
+END
+ispell.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/969486/incubator/zetacomponents/scripts/ispell.php
+END
+package.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/977740/incubator/zetacomponents/scripts/package.php
+END
+clone-empty.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/971758/incubator/zetacomponents/scripts/clone-empty.php
+END
+render-rst-file.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1034722/incubator/zetacomponents/scripts/render-rst-file.php
+END
+generate_super_package_xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/977990/incubator/zetacomponents/scripts/generate_super_package_xml.php
+END
+autogen-version-tags.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/974580/incubator/zetacomponents/scripts/autogen-version-tags.sh
+END
+tests_filenames.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1212912/incubator/zetacomponents/scripts/tests_filenames.sh
+END
+docanalysis.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/976771/incubator/zetacomponents/scripts/docanalysis.php
+END
+check-differences.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/978036/incubator/zetacomponents/scripts/check-differences.sh
+END
+generate-autoload-file.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1097423/incubator/zetacomponents/scripts/generate-autoload-file.php
+END
+fix-copyright.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/978652/incubator/zetacomponents/scripts/fix-copyright.sh
+END
+generate-autoload-files.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/972298/incubator/zetacomponents/scripts/generate-autoload-files.sh
+END
+syntax-check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/977742/incubator/zetacomponents/scripts/syntax-check.sh
+END
+php-version
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/977526/incubator/zetacomponents/scripts/php-version
+END
+release1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/978741/incubator/zetacomponents/scripts/release1.sh
+END
+code-coverage-cron.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/970975/incubator/zetacomponents/scripts/code-coverage-cron.sh
+END
+create_pear_package.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/977526/incubator/zetacomponents/scripts/create_pear_package.php
+END
+create-patches.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/970975/incubator/zetacomponents/scripts/create-patches.php
+END
+fix-docs-array.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/969282/incubator/zetacomponents/scripts/fix-docs-array.php
+END
